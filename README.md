@@ -3,7 +3,7 @@
 #
 # Work/Projects
 #
-## <a href="https://github.com/aarondighton/GDP-By-Region.git">Page</a>
+## <a href="https://github.com/aarondighton/GDP-By-Region.git">GDP By Region</a>
 # Contact Information
 ## Aaron Dighton
 ## dighton.aaron@gmail.com
