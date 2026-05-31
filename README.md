@@ -6,6 +6,23 @@
 ## <a href="https://github.com/aarondighton/GDP-By-Region.git">GDP By Region</a>
 #
 ## <a href="https://github.com/aarondighton/Dodgers-Games.git">Bobbleheads at Dodgers Games</a>
+#
+## <a href="https://github.com/aarondighton/HealthAnalysis.git">Healthcare Analysis</a>
+#
+## <a href="https://github.com/aarondighton/FederalReserve.git">Federal Reserve</a>
+#
+## <a href="https://github.com/aarondighton/WhiteHouse.git">White House</a>
+#
+## <a href="https://github.com/aarondighton/AI.git">AI</a>
+#
+## <a href="https://github.com/aarondighton/Books-Movies.git">Books and Movies</a>
+#
+## <a href="https://github.com/aarondighton/Unemployment-Rate.git">Unemployment Rate</a>
+#
+## <a href="https://github.com/aarondighton/Pregnancy.git">Pregnancy</a>
+#
+## <a href="https://github.com/aarondighton/K-Means.git">K-Means</a>
+#
 # Contact Information
 ## Aaron Dighton
 ## dighton.aaron@gmail.com
